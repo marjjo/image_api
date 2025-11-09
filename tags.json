@@ -1,0 +1,12 @@
+{
+  "components": {
+    "bamboo1.jpg": ["pole", "petung"],
+    "bamboo2.jpg": ["pole", "apus"]
+  },
+  "precedents": {
+    "pablo_luna1.jpg": ["pavillion", "biomimicry", "dynamic", "waves"],
+    "keeng.jpg": ["pavillion", "geometric", "hyperbolic paraboloids"],
+    "asali_bali1.jpg"; ["pavillion", "curved","dynamic"]
+  }
+}
+ 
